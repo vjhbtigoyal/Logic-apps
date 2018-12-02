@@ -1,0 +1,673 @@
+{
+  "$connections": {
+    "value": {
+      "sql_0": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/sql-10",
+        "connectionName": "sql-10",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/sql"
+      },
+      "dynamicscrmonline_0": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/dynamicscrmonline",
+        "connectionName": "dynamicscrmonline",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/dynamicscrmonline"
+      },
+      "dynamicscrmonline_1": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/dynamicscrmonline-1",
+        "connectionName": "dynamicscrmonline-1",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/dynamicscrmonline"
+      },
+      "dynamicscrmonline_2": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/dynamicscrmonline-2",
+        "connectionName": "dynamicscrmonline-2",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/dynamicscrmonline"
+      },
+      "dynamicscrmonline_3": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/dynamicscrmonline-3",
+        "connectionName": "dynamicscrmonline-3",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/dynamicscrmonline"
+      },
+      "dynamicscrmonline_4": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/dynamicscrmonline-4",
+        "connectionName": "dynamicscrmonline-4",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/dynamicscrmonline"
+      },
+      "dynamicscrmonline_5": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/dynamicscrmonline-5",
+        "connectionName": "dynamicscrmonline-5",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/dynamicscrmonline"
+      },
+      "dynamicscrmonline_6": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/dynamicscrmonline-6",
+        "connectionName": "dynamicscrmonline-6",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/dynamicscrmonline"
+      },
+      "dynamicscrmonline_7": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/dynamicscrmonline-7",
+        "connectionName": "dynamicscrmonline-7",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/dynamicscrmonline"
+      },
+      "dynamicscrmonline_8": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/dynamicscrmonline-8",
+        "connectionName": "dynamicscrmonline-8",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/dynamicscrmonline"
+      },
+      "dynamicscrmonline_9": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/dynamicscrmonline-9",
+        "connectionName": "dynamicscrmonline-9",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/dynamicscrmonline"
+      },
+      "sql_1": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/sql-1",
+        "connectionName": "sql-1",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/sql"
+      },
+      "sql_2": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/sql-2",
+        "connectionName": "sql-2",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/sql"
+      },
+      "sql_3": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/sql-3",
+        "connectionName": "sql-3",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/sql"
+      },
+      "sql_4": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/sql-4",
+        "connectionName": "sql-4",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/sql"
+      },
+      "sql_5": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/sql-5",
+        "connectionName": "sql-5",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/sql"
+      },
+      "sql_6": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/sql-6",
+        "connectionName": "sql-6",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/sql"
+      },
+      "sql_7": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/sql-7",
+        "connectionName": "sql-7",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/sql"
+      },
+      "sql_8": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/sql-8",
+        "connectionName": "sql-8",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/sql"
+      },
+      "sql_9": {
+        "connectionId": "/subscriptions/<<subscription-id>>/resourceGroups/src-dev-rg/providers/Microsoft.Web/connections/sql-9",
+        "connectionName": "sql-9",
+        "id": "/subscriptions/<<subscription-id>>/providers/Microsoft.Web/locations/westus2/managedApis/sql"
+      }
+    }
+  },
+  "definition": {
+    "$schema": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#",
+    "actions": {
+      "Execute_Sp_GetDeltaContacts": {
+        "inputs": {
+          "host": {
+            "connection": {
+              "name": "@parameters('$connections')['sql_0']['connectionId']"
+            }
+          },
+          "method": "post",
+          "path": "/datasets/default/procedures/@{encodeURIComponent(encodeURIComponent('[sourcing].[GetDeltaContacts_page]'))}",
+          "body": {
+            "pageNumber": "@triggerBody()?['pageNumber']",
+            "pageSize": "@triggerBody()?['pageSize']"
+          }
+        },
+        "runAfter": {},
+        "type": "ApiConnection"
+      },
+      "Initialize_totalRecords": {
+        "inputs": {
+          "variables": [
+            {
+              "name": "totalRecords",
+              "type": "Integer",
+              "value": "@length(body('Execute_Sp_GetDeltaContacts')?['resultsets']?['Table1'])"
+            }
+          ]
+        },
+        "runAfter": {
+          "Initialize_skipDataCount": [
+            "Succeeded"
+          ]
+        },
+        "type": "InitializeVariable"
+      },
+      "Initialize_continueLoop": {
+        "inputs": {
+          "variables": [
+            {
+              "name": "continueLoop",
+              "type": "Boolean",
+              "value": true
+            }
+          ]
+        },
+        "runAfter": {
+          "Initialize_takeDataCount": [
+            "Succeeded"
+          ]
+        },
+        "type": "InitializeVariable"
+      },
+      "Initialize_skipDataCount": {
+        "inputs": {
+          "variables": [
+            {
+              "name": "skipDataCount",
+              "type": "Integer",
+              "value": 0
+            }
+          ]
+        },
+        "runAfter": {
+          "Execute_Sp_GetDeltaContacts": [
+            "Succeeded"
+          ]
+        },
+        "type": "InitializeVariable"
+      },
+      "Initialize_takeDataCount": {
+        "inputs": {
+          "variables": [
+            {
+              "name": "takeDataCount",
+              "type": "Integer",
+              "value": 333
+            }
+          ]
+        },
+        "runAfter": {
+          "Initialize_totalRecords": [
+            "Succeeded"
+          ]
+        },
+        "type": "InitializeVariable"
+      },
+      "Response": {
+        "inputs": {
+          "statusCode": 200
+        },
+        "kind": "Http",
+        "runAfter": {
+          "Until_data_exists": [
+            "Succeeded"
+          ]
+        },
+        "type": "Response"
+      },
+      "Until_data_exists": {
+        "actions": {
+          "Increment_skipDataCount": {
+            "inputs": {
+              "name": "skipDataCount",
+              "value": 333
+            },
+            "runAfter": {
+              "Scope_of_foreach": [
+                "Succeeded",
+                "Failed",
+                "Skipped",
+                "TimedOut"
+              ]
+            },
+            "type": "IncrementVariable"
+          },
+          "Scope_of_foreach": {
+            "actions": {
+              "ForEach_GetDeltaContacts": {
+                "actions": {
+                  "Filter_array": {
+                    "inputs": {
+                      "from": "@result('Scope')",
+                      "where": "@equals('status', 'Failed')"
+                    },
+                    "runAfter": {
+                      "Scope": [
+                        "Succeeded"
+                      ]
+                    },
+                    "type": "Query"
+                  },
+                  "Scope": {
+                    "actions": {
+                      "Check_if_its_create_record_scenario": {
+                        "actions": {
+                          "Create_a_new_record_(Preview)": {
+                            "inputs": {
+                              "body": {
+                                "_address2_addresstypecode_label": "Default Value",
+                                "_customersizecode_label": "Default Value",
+                                "_customertypecode_label": "Default Value",
+                                "_educationcode_label": "Default Value",
+                                "_haschildrencode_label": "Default Value",
+                                "_leadsourcecode_label": "Default Value",
+                                "_preferredappointmenttimecode_label": "Morning",
+                                "_preferredcontactmethodcode_label": "Any",
+                                "_preferredsystemuserid_value": "@{if(equals(length(body('Get_Pem_User_Entity')['value']),0),'',first(body('Get_Pem_User_Entity')['value'])?['systemuserid'])}",
+                                "_shippingmethodcode_label": "Default Value",
+                                "_territorycode_label": "Default Value",
+                                "address3_country": "@items('ForEach_GetDeltaContacts')?['CountryName']",
+                                "adx_identity_emailaddress1confirmed": false,
+                                "adx_identity_locallogindisabled": false,
+                                "adx_identity_lockoutenabled": false,
+                                "adx_identity_logonenabled": false,
+                                "adx_identity_mobilephoneconfirmed": false,
+                                "adx_identity_twofactorenabled": false,
+                                "adx_profilealert": false,
+                                "adx_profileisanonymous": false,
+                                "creditonhold": false,
+                                "department": "@items('ForEach_GetDeltaContacts')?['ExecFunctionSummaryCode']",
+                                "donotbulkemail": false,
+                                "donotbulkpostalmail": false,
+                                "donotemail": false,
+                                "donotfax": false,
+                                "donotphone": false,
+                                "donotpostalmail": false,
+                                "donotsendmm": false,
+                                "emailaddress1": "@{concat(items('ForEach_GetDeltaContacts')?['EmailName'],'@microsoft.com')}",
+                                "employeeid": "@{items('ForEach_GetDeltaContacts')?['PersonnelNumber']}",
+                                "firstname": "@items('ForEach_GetDeltaContacts')?['FirstName']",
+                                "followemail": true,
+                                "isbackofficecustomer": false,
+                                "lastname": "@items('ForEach_GetDeltaContacts')?['LastName']",
+                                "marketingonly": false,
+                                "merged": false,
+                                "middlename": "@items('ForEach_GetDeltaContacts')?['MiddleName']",
+                                "msdyn_disablewebtracking": false,
+                                "msdyn_gdproptout": false,
+                                "msdyn_isminor": false,
+                                "msdyn_isminorwithparentalconsent": false,
+                                "participatesinworkflow": false,
+                                "statuscode": "@if(equals(items('ForEach_GetDeltaContacts')?['IsActive'],true),1,2)"
+                              },
+                              "host": {
+                                "api": {
+                                  "runtimeUrl": "https://logic-apis-westus2.azure-apim.net/apim/dynamicscrmonline"
+                                },
+                                "connection": {
+                                  "name": "@triggerBody()?['crmConnection']"
+                                }
+                              },
+                              "method": "post",
+                              "path": "/v2/datasets/@{encodeURIComponent(encodeURIComponent('sourcinguat.crm'))}/tables/@{encodeURIComponent(encodeURIComponent('contacts'))}/items",
+                              "retryPolicy": {
+                                "type": "none"
+                              }
+                            },
+                            "runAfter": {},
+                            "type": "ApiConnection"
+                          }
+                        },
+                        "else": {
+                          "actions": {
+                            "Get_Contact_User_Entity": {
+                              "inputs": {
+                                "api": {
+                                  "runtimeUrl": "https://logic-apis-westus2.azure-apim.net/apim/dynamicscrmonline"
+                                },
+                                "host": {
+                                  "connection": {
+                                    "name": "@triggerBody()?['crmConnection']"
+                                  }
+                                },
+                                "method": "get",
+                                "path": "/v2/datasets/@{encodeURIComponent(encodeURIComponent('sourcinguat.crm'))}/tables/@{encodeURIComponent(encodeURIComponent('contacts'))}/items",
+                                "queries": {
+                                  "$filter": "emailaddress1 eq '@{concat(items('ForEach_GetDeltaContacts')?['EmailName'],'@microsoft.com')}'",
+                                  "$top": 1
+                                },
+                                "retryPolicy": {
+                                  "type": "none"
+                                }
+                              },
+                              "runAfter": {},
+                              "type": "ApiConnection"
+                            },
+                            "Update_a_record": {
+                              "inputs": {
+                                "body": {
+                                  "_preferredsystemuserid_value": "@{if(equals(length(body('Get_Pem_User_Entity')['value']),0),'',first(body('Get_Pem_User_Entity')['value'])?['systemuserid'])}",
+                                  "address3_country": "@items('ForEach_GetDeltaContacts')?['CountryName']",
+                                  "department": "@items('ForEach_GetDeltaContacts')?['ExecFunctionSummaryCode']",
+                                  "emailaddress1": "@{concat(items('ForEach_GetDeltaContacts')?['EmailName'],'@microsoft.com')}",
+                                  "employeeid": "@{items('ForEach_GetDeltaContacts')?['PersonnelNumber']}",
+                                  "firstname": "@items('ForEach_GetDeltaContacts')?['FirstName']",
+                                  "lastname": "@items('ForEach_GetDeltaContacts')?['LastName']",
+                                  "middlename": "@items('ForEach_GetDeltaContacts')?['MiddleName']",
+                                  "statecode": "@if(equals(items('ForEach_GetDeltaContacts')?['IsActive'],true),0,1)",
+                                  "statuscode": "@if(equals(items('ForEach_GetDeltaContacts')?['IsActive'],true),1,2)"
+                                },
+                                "host": {
+                                  "api": {
+                                    "runtimeUrl": "https://logic-apis-westus2.azure-apim.net/apim/dynamicscrmonline"
+                                  },
+                                  "connection": {
+                                    "name": "@triggerBody()?['crmConnection']"
+                                  }
+                                },
+                                "method": "patch",
+                                "path": "/datasets/@{encodeURIComponent(encodeURIComponent('sourcinguat.crm'))}/tables/@{encodeURIComponent(encodeURIComponent('contacts'))}/items/@{encodeURIComponent(encodeURIComponent(first(body('Get_Contact_User_Entity')['value'])?['contactid']))}",
+                                "retryPolicy": {
+                                  "type": "none"
+                                }
+                              },
+                              "runAfter": {
+                                "Get_Contact_User_Entity": [
+                                  "Succeeded"
+                                ]
+                              },
+                              "type": "ApiConnection"
+                            }
+                          }
+                        },
+                        "expression": {
+                          "and": [
+                            {
+                              "equals": [
+                                "@items('ForEach_GetDeltaContacts')?['UpdatedOn']",
+                                null
+                              ]
+                            }
+                          ]
+                        },
+                        "runAfter": {
+                          "Get_Pem_User_Entity": [
+                            "Succeeded"
+                          ]
+                        },
+                        "type": "If"
+                      },
+                      "Get_Pem_User_Entity": {
+                        "inputs": {
+                          "host": {
+                            "api": {
+                              "runtimeUrl": "https://logic-apis-westus2.azure-apim.net/apim/dynamicscrmonline"
+                            },
+                            "connection": {
+                              "name": "@triggerBody()?['crmConnection']"
+                            }
+                          },
+                          "method": "get",
+                          "path": "/v2/datasets/@{encodeURIComponent(encodeURIComponent('sourcinguat.crm'))}/tables/@{encodeURIComponent(encodeURIComponent('systemusers'))}/items",
+                          "queries": {
+                            "$filter": "domainname eq '@{concat(items('ForEach_GetDeltaContacts')?['PemAlias'],'@microsoft.com')}'",
+                            "$top": 1
+                          },
+                          "retryPolicy": {
+                            "type": "none"
+                          }
+                        },
+                        "runAfter": {},
+                        "type": "ApiConnection"
+                      }
+                    },
+                    "runAfter": {},
+                    "type": "Scope"
+                  },
+                  "update_DB_if_pem_not_present_or_failures": {
+                    "actions": {
+                      "Update_row_error": {
+                        "inputs": {
+                          "body": {
+                            "CreatedBy": "@items('ForEach_GetDeltaContacts')?['CreatedBy']",
+                            "CreatedOn": "@items('ForEach_GetDeltaContacts')?['CreatedOn']",
+                            "IsActive": "@items('ForEach_GetDeltaContacts')?['IsActive']",
+                            "IsSyncedPartially": true,
+                            "LogicAppError": "@{if(empty(body('Get_Pem_User_Entity')?['value']),'Pem is not present',result('Scope'))}",
+                            "PersonnelNumber": "@items('ForEach_GetDeltaContacts')?['PersonnelNumber']"
+                          },
+                          "host": {
+                            "api": {
+                              "runtimeUrl": "https://logic-apis-westus2.azure-apim.net/apim/sql"
+                            },
+                            "connection": {
+                              "name": "@triggerBody()?['sqlConnection']"
+                            }
+                          },
+                          "method": "patch",
+                          "path": "/datasets/default/tables/@{encodeURIComponent(encodeURIComponent('[sourcing].[Contact]'))}/items/@{encodeURIComponent(encodeURIComponent(items('ForEach_GetDeltaContacts')?['PersonnelNumber']))}"
+                        },
+                        "runAfter": {},
+                        "type": "ApiConnection"
+                      },
+                      "log_error": {
+                        "actions": {
+                          "HTTP": {
+                            "inputs": {
+                              "body": "@result('Scope')",
+                              "method": "POST",
+                              "uri": "https://webhook.site/ac1eb6a3-a4a6-408b-8046-328496845e30"
+                            },
+                            "runAfter": {},
+                            "type": "Http"
+                          }
+                        },
+                        "expression": {
+                          "and": [
+                            {
+                              "equals": [
+                                "@result('Scope')[0]?['status']",
+                                "Failed"
+                              ]
+                            }
+                          ]
+                        },
+                        "runAfter": {
+                          "Update_row_error": [
+                            "Succeeded"
+                          ]
+                        },
+                        "type": "If"
+                      }
+                    },
+                    "else": {
+                      "actions": {
+                        "Check_if_IsSyncedPartially_is_true,_then_make_it_false": {
+                          "actions": {
+                            "Update_row_IsSyncedPartially_no": {
+                              "inputs": {
+                                "body": {
+                                  "CreatedBy": "@items('ForEach_GetDeltaContacts')?['CreatedBy']",
+                                  "CreatedOn": "@items('ForEach_GetDeltaContacts')?['CreatedOn']",
+                                  "IsActive": "@items('ForEach_GetDeltaContacts')?['IsActive']",
+                                  "IsSyncedPartially": false,
+                                  "LogicAppError": "@{null}",
+                                  "PersonnelNumber": "@items('ForEach_GetDeltaContacts')?['PersonnelNumber']"
+                                },
+                                "host": {
+                                  "api": {
+                                    "runtimeUrl": "https://logic-apis-westus2.azure-apim.net/apim/sql"
+                                  },
+                                  "connection": {
+                                    "name": "@triggerBody()?['sqlConnection']"
+                                  }
+                                },
+                                "method": "patch",
+                                "path": "/datasets/default/tables/@{encodeURIComponent(encodeURIComponent('[sourcing].[Contact]'))}/items/@{encodeURIComponent(encodeURIComponent(items('ForEach_GetDeltaContacts')?['PersonnelNumber']))}"
+                              },
+                              "runAfter": {},
+                              "type": "ApiConnection"
+                            }
+                          },
+                          "expression": {
+                            "and": [
+                              {
+                                "equals": [
+                                  "@items('ForEach_GetDeltaContacts')?['IsSyncedPartially']",
+                                  true
+                                ]
+                              }
+                            ]
+                          },
+                          "runAfter": {},
+                          "type": "If"
+                        }
+                      }
+                    },
+                    "expression": {
+                      "or": [
+                        {
+                          "equals": [
+                            "@empty(body('Get_Pem_User_Entity')?['value'])",
+                            true
+                          ]
+                        },
+                        {
+                          "equals": [
+                            "@empty(body('Filter_array'))",
+                            true
+                          ]
+                        }
+                      ]
+                    },
+                    "runAfter": {
+                      "Filter_array": [
+                        "Succeeded"
+                      ]
+                    },
+                    "type": "If"
+                  }
+                },
+                "description": "run this loop for each contact from returned output of get contacts sp",
+                "foreach": "@take(skip(body('Execute_Sp_GetDeltaContacts')?['resultsets']?['Table1'],variables('skipDataCount')),variables('takeDataCount'))",
+                "runAfter": {},
+                "runtimeConfiguration": {
+                  "concurrency": {
+                    "repetitions": 50
+                  }
+                },
+                "type": "Foreach"
+              }
+            },
+            "runAfter": {},
+            "type": "Scope"
+          },
+          "decide_continueLoop": {
+            "actions": {
+              "Decide_Delay_if_scope_time_is_more_than_60secs": {
+                "actions": {
+                  "Delay": {
+                    "inputs": {
+                      "interval": {
+                        "count": "@add(div(sub(600000000, sub(ticks(actions('Scope_of_foreach')?['endTime']), ticks(actions('Scope_of_foreach')?['startTime']))), 10000000), 1)",
+                        "unit": "Second"
+                      }
+                    },
+                    "runAfter": {},
+                    "type": "Wait"
+                  }
+                },
+                "expression": {
+                  "and": [
+                    {
+                      "equals": [
+                        "@less(sub(ticks(actions('Scope_of_foreach')?['endTime']), ticks(actions('Scope_of_foreach')?['startTime'])),600000000)",
+                        true
+                      ]
+                    }
+                  ]
+                },
+                "runAfter": {
+                  "Set_continueLoop_true": [
+                    "Succeeded"
+                  ]
+                },
+                "type": "If"
+              },
+              "Set_continueLoop_true": {
+                "inputs": {
+                  "name": "continueLoop",
+                  "value": true
+                },
+                "runAfter": {},
+                "type": "SetVariable"
+              }
+            },
+            "else": {
+              "actions": {
+                "Set_continueLoop_false": {
+                  "inputs": {
+                    "name": "continueLoop",
+                    "value": false
+                  },
+                  "runAfter": {},
+                  "type": "SetVariable"
+                }
+              }
+            },
+            "expression": {
+              "and": [
+                {
+                  "greater": [
+                    "@sub(variables('totalRecords'),variables('skipDataCount'))",
+                    0
+                  ]
+                }
+              ]
+            },
+            "runAfter": {
+              "Increment_skipDataCount": [
+                "Succeeded"
+              ]
+            },
+            "type": "If"
+          }
+        },
+        "expression": "@equals(variables('continueLoop'), false)",
+        "limit": {
+          "count": 100,
+          "timeout": "P2D"
+        },
+        "runAfter": {
+          "Initialize_continueLoop": [
+            "Succeeded"
+          ]
+        },
+        "type": "Until"
+      }
+    },
+    "contentVersion": "1.0.0.0",
+    "outputs": {},
+    "parameters": {
+      "$connections": {
+        "defaultValue": {},
+        "type": "Object"
+      }
+    },
+    "triggers": {
+      "manual": {
+        "inputs": {
+          "method": "POST",
+          "relativePath": "contacts/{pageNumber}/{pageSize}",
+          "schema": {
+            "properties": {
+              "crmConnection": {
+                "type": "string"
+              },
+              "pageNumber": {
+                "type": "integer"
+              },
+              "pageSize": {
+                "type": "integer"
+              },
+              "sqlConnection": {
+                "type": "string"
+              }
+            },
+            "type": "object"
+          }
+        },
+        "kind": "Http",
+        "type": "Request"
+      }
+    }
+  }
+}
